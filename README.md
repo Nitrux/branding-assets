@@ -55,14 +55,15 @@ We encourage third-party developers creating products for Nitrux OS to adopt som
 * Voice/tone
 However, to avoid user confusion, we do restrict the usage of the Nitrux name and marks:
 
-You are encouraged to say that your app or service is designed for Nitrux OS, but please don’t use the Nitrux name or trademarks as part of the name of your company, application, product, service, or in any logo you create.
-Only use the Nitrux name or marks to refer to Nitrux Latinoamericana S.C. or its products (i.e., Nitrux OS).
-Hardware Distributors
+* You are encouraged to say that your app or service is designed for Nitrux OS, but please don’t use the Nitrux name or trademarks as part of the name of your company, application, product, service, or in any logo you create.
+* Only use the Nitrux name or marks to refer to Nitrux Latinoamericana S.C. or its products (i.e., Nitrux OS).
+
+## Hardware Distributors
 We want to ensure that as long as our software carries the Nitrux branding, the experience will be consistent whether it was downloaded from our website or pre-installed on a hardware product. The software components of Nitrux OS may be modified and redistributed according to the terms of the software’s licensing. However, our brand marks may only be redistributed under one or more of the following conditions:
 
-The software remains unchanged, including pre-installed applications, stylesheets, and iconography, configuration files, etc., or
-The modifications are approved in writing by Nitrux.
-We understand that including drivers, hardware enablement, and distributor branding is essential for distributors, so Nitrux will almost always approve these modifications. If in doubt, please email oem@nxos.org for clarification or direction.
+* The software remains unchanged, including pre-installed applications, stylesheets, and iconography, configuration files, etc., or
+* The modifications are approved in writing by Nitrux.
+* We understand that including drivers, hardware enablement, and distributor branding is essential for distributors, so Nitrux will almost always approve these modifications. If in doubt, please email oem@nxos.org for clarification or direction.
 
 ## Merchandise
 We allow our branding (including our name or brand marks) to be used on third-party merchandise only if Nitrux has previously agreed to it. Please email oem@nxos.org for clarification or direction.
