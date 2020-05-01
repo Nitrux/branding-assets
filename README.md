@@ -63,6 +63,7 @@ We want to ensure that as long as our software carries the Nitrux branding, the 
 
 * The software remains unchanged, including pre-installed applications, stylesheets, and iconography, configuration files, etc., or
 * The modifications are approved in writing by Nitrux.
+
 We understand that including drivers, hardware enablement, and distributor branding is essential for distributors, so Nitrux will almost always approve these modifications. If in doubt, please email oem@nxos.org for clarification or direction.
 
 ## Merchandise
